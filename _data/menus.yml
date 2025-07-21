@@ -13,6 +13,9 @@ topmenu:
 - title: 참가안내
   url: "registration/"
 
+- title: 수상혜택
+  url: "awards/"
+
 - title: FAQ
   url: "faq/"
 
