@@ -16,15 +16,17 @@ Copilot Agent를 직접 설계하고 구현해보고 싶은 만 18세 이상의 
 - Copilot 환경이 사전 구축된 팀 또는 조직
 - ⚠️ 본 행사는 별도의 Azure Credit 또는 Copilot 라이선스를 제공하지 않으며, 참가자는 에이전트 개발을 위한 Microsoft 환경을 사전에 준비해주셔야 합니다.
 
+---
+
 ## 신청 방법 및 마감일
 
 - 참가 신청은 아래 링크를 통해 접수해 주세요.
 - 신청 마감: 2025년 8월 12일 (화) 저녁 11시59분
 - 오리엔테이션: 8월 13일 온라인 진행
 
-👉 참가 신청: https://aka.ms/CopilotAgenthoninSeoul2025
+👉 참가 신청: [https://aka.ms/CopilotAgenthoninSeoul2025](https://aka.ms/CopilotAgenthoninSeoul2025)
 
-👉 행사 안내 페이지: https://lanslote.github.io/copilotagenthon/
+---
 
 ## 참가비 및 혜택
 
@@ -32,6 +34,8 @@ Copilot Agent를 직접 설계하고 구현해보고 싶은 만 18세 이상의 
 - 참가자 전원에게 실습 교육 및 코칭 세션 제공
 - 우수 사례는 Microsoft 공식 채널 및 Microsoft Agent Gallery 웹사이트를 통해 홍보
 - 파이널 데모 데이에서 수상한 팀에게는 팀원 모두에게 개별 수상 혜택이 제공되며, 구체적인 상품은 추후 공식 발표를 통해 안내드릴 예정입니다
+
+---
 
 ## 제출물 안내
 
