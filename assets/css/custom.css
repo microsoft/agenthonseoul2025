@@ -7,5 +7,5 @@ body {}
 
 
 table, th, td {
-  border: 1px solid black; /* 테이블과 셀에 검은색 경계선을 추가합니다 */
+  border: 1px solid rgb(90, 90, 90); /* 테이블과 셀에 검은색 경계선을 추가합니다 */
 }
