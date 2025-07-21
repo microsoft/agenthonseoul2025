@@ -38,8 +38,8 @@ image: assets/images/image03.png
 |날짜|시간|트랙1|트랙2|
 |---|---|---|---|
 |8월 20일 오전|2 hr|M365 Agent Tool Kit (최정우)|좌동|
-|8월 20일 오후|2 hr|Bring Your Own Agent - M365 Agent SDK (서동연)|Azure AI foundry를 이용한 에이전트 개발|
-|8월 20일 오후|2 hr|Graph API 연동하는 에이전트 개발 (최치원)|Azure AI foundry를 이용한 에이전트 개발|
+|8월 20일 오후|2 hr|BYOA - M365 Agent SDK (서동연)|Azure AI foundry를 이용한 에이전트 개발|
+|8월 20일 오후|2 hr|Graph API 연동 에이전트 개발 (최치원)|Azure AI foundry를 이용한 에이전트 개발|
 |8월 20일 오후|1 hr|Q&A|좌동|
 
 ### 코칭 멘토
