@@ -10,7 +10,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 
-gem "github-pages",
+gem "github-pages"
 
 group :jekyll_plugins do
     gem 'jekyll-feed'
