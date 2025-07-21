@@ -1,0 +1,40 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: 행사개요
+  url: "about/"
+
+- title: 프로그램
+  url: "program/"
+
+- title: 참가안내
+  url: "registration/"
+
+- title: FAQ
+  url: "faq/"
+
+- title: 커뮤니티
+  url: "community/"
+
+- title: 후원
+  url: "sponsor/"
+
+- title: 신청하기  
+  url: https://google.com/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"
