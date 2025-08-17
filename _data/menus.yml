@@ -19,6 +19,9 @@ topmenu:
 - title: FAQ
   url: "faq/"
 
+- title: [오리엔테이션]
+  url: "orientation/"
+
 #- title: 커뮤니티
 #  url: "community/"
 
