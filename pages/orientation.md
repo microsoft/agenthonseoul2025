@@ -29,13 +29,15 @@ image: assets/images/image03.png
 
 코파일럿 에이전트를 개발할 때 필요한 지식과 가이드를 모았습니다. 로우코드와 프로코드를 나누어 놓았지만 실제로는 모두 다 알면 도움이 될 수 있습니다. 어느 방향이든 끝에 가면 만나게 되는 이치!!
 
+---
+
 ### 공통
 
 [MS Learn : Microsoft 365 Copilot extensibility overview](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/)
 
 [온디맨드교육 : Microsoft 365 기본 교육 과정](https://microsoft.github.io/mwkorea/agent/M365userguide/)
 
-[온디맨등교육 : M365 Copilot Chat 기본 교육 과정](https://microsoft.github.io/mwkorea/agent/CopilotChatguide/)
+[온디맨드교육 : M365 Copilot Chat 기본 교육 과정](https://microsoft.github.io/mwkorea/agent/CopilotChatguide/)
 
 [가이드 : Pay As You Go 구성 가이드](https://microsoft.github.io/mwkorea/copilot/CopilotChatPAYG/)
 
@@ -49,6 +51,8 @@ image: assets/images/image03.png
 
 [부트캠프 핸즈온 : Copilot Developer Camp](https://microsoft.github.io/copilot-camp/)
 
+---
+
 ### 로우코드
 
 [MS Learn : 코파일럿 스튜디오](https://learn.microsoft.com/ko-kr/microsoft-copilot-studio/)
@@ -60,6 +64,8 @@ image: assets/images/image03.png
 [핸즈온가이드 : 다양한 코파일럿 스튜디오 핸즈온 워크샵](https://github.com/ChangJu-Ahn/Power-Platform-Hands-on)
 
 [핸즈온가이드 : 다양한 AI Agent 핸즈온 워크샵](https://github.com/ChangJu-Ahn/Microsoft-AI-Agent)
+
+---
 
 ### 프로코드
 
