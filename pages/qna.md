@@ -13,6 +13,6 @@ image: assets/images/image03.png
 
 이 Q&A는 모두에게 공유되는 지식이 됩니다. 추후 사이트에 정리하여 게시하겠습니다.
 
-[사전 질문 제출하기](https://forms.office.com/r/thDGCCseP1)
+[사전 질문 제출하기](https://aka.ms/CopilotAgenthoninSeoul2025_QnA)
 
 ![image]({{ site.baseurl }}/assets/images/qr.png)
