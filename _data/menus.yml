@@ -16,11 +16,14 @@ topmenu:
 - title: 수상혜택
   url: "awards/"
 
-- title: FAQ
+- title: 행사FAQ
   url: "faq/"
 
 - title: "[오리엔테이션]"
   url: "orientation/"
+
+- title: "[매주Q&A]"
+  url: "qna/"
 
 #- title: 커뮤니티
 #  url: "community/"
