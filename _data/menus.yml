@@ -22,6 +22,9 @@ topmenu:
 - title: "[오리엔테이션]"
   url: "orientation/"
 
+- title: "[수료증]"
+  url: "cert/"
+
 - title: "[매주Q&A]"
   url: "qna/"
 
