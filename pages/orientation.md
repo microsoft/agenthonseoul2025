@@ -7,13 +7,13 @@ image: assets/images/image03.png
 
 # 🚨 필독 : 오리엔테이션
 
-## 오리엔테이션 영상
+## 🎥 오리엔테이션 영상
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFe-Kwh0iEE?si=g2DjxH6o_MT2HbGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 개발 테넌트 환경 생성하기
+## 👩‍🚀 개발 테넌트 환경 생성하기
 
 코파일럿 에이전트를 개발하려면 M365 환경이 필요합니다. 해커톤을 위한 나만의 개발 테넌트를 만들고 구성하는 방법부터 에이전트 구동을 위한 PAYG(사용량 과금 정책)을 설정하는 데까지 한방에 정리하는 내용입니다.
 
@@ -25,19 +25,19 @@ image: assets/images/image03.png
 
 ---
 
-## 1일차 교육 녹화본 - 로우코드 데이
+## ✅ 1일차 교육 녹화본 - 로우코드 데이
 
 - [0. 로우코드를 통한 기업KT AI 혁신사례와 Copilot Studio와 Power Platform의 가치 - KT 김범수 팀장](https://www.youtube.com/watch?v=M5VGCQPbEbk)
-- [1. 에어전트 빌더 완전정복 - MS 김지연](https://www.youtube.com/watch?v=llbuE9KYacU)
+- [1. 에이전트 빌더 완전정복 - MS 김지연](https://www.youtube.com/watch?v=llbuE9KYacU)
 - [2. 코파일럿 스튜디오 초급 - MS 이영서](https://www.youtube.com/watch?v=-AfbUVb7uGQ)
 
 ---
 
-## 2일차 교육 녹화본 - 프로코드 데이
+## ✅ 2일차 교육 녹화본 - 프로코드 데이
 
 ---
 
-## 자기주도 학습 컨텐츠
+## 📝 자기주도 학습 컨텐츠
 
 코파일럿 에이전트를 개발할 때 필요한 지식과 가이드를 모았습니다. 로우코드와 프로코드를 나누어 놓았지만 실제로는 모두 다 알면 도움이 될 수 있습니다. 어느 방향이든 끝에 가면 만나게 되는 이치!!
 
