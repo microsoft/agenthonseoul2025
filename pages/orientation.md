@@ -9,7 +9,7 @@ image: assets/images/image03.png
 
 ## 오리엔테이션 영상
 
-추후 19일 이후 업로드 예정
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lFe-Kwh0iEE?si=g2DjxH6o_MT2HbGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -22,6 +22,18 @@ image: assets/images/image03.png
 - Azure 구독 (Pay-As-You-Go 설정 필요, 사용량에 따라 비용지출)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V_zOmFpncng?si=3HiPKKePmqF6sCWS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## 1일차 교육 녹화본 - 로우코드 데이
+
+- [0. 로우코드를 통한 기업KT AI 혁신사례와 Copilot Studio와 Power Platform의 가치 - KT 김범수 팀장](https://www.youtube.com/watch?v=M5VGCQPbEbk)
+- [1. 에어전트 빌더 완전정복 - MS 김지연](https://www.youtube.com/watch?v=llbuE9KYacU)
+- [2. 코파일럿 스튜디오 초급 - MS 이영서](https://www.youtube.com/watch?v=-AfbUVb7uGQ)
+
+---
+
+## 2일차 교육 녹화본 - 프로코드 데이
 
 ---
 
