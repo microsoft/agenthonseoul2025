@@ -36,7 +36,10 @@ image: assets/images/image03.png
 
 ## ✅ 2일차 교육 녹화본 - 프로코드 데이
 
-- [5. M365 Agent Tool Kit MS 최정우](https://www.youtube.com/watch?v=usXWZWEXgIg)
+- [5. M365 Agent Tool Kit - MS 최정우](https://www.youtube.com/watch?v=usXWZWEXgIg)
+- [6. Azure AI Foundry 입문 에이전트 개발의 첫걸음 - MS 신혜원](https://www.youtube.com/watch?v=VRraO8KdK5c)
+- [7. 우리 AI가 달라졌어요 RAG와 툴 통합으로 더욱 똑똑해진 에이전트 - MS 이희진](https://www.youtube.com/watch?v=vy0Ju3TjCwY)
+- [8. BYOA – M365 Agent SDK - MS 서동연](https://www.youtube.com/watch?v=CDbN2up9jt0)
 
 ---
 
