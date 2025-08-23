@@ -7,22 +7,16 @@ topmenu:
 - title: "[개요 및 안내]"
   url: "about/"
 
-- title: 프로그램
+- title: "[주요일정]"
   url: "program/"
 
-- title: 수상혜택
-  url: "awards/"
-
-- title: 행사FAQ
+- title: "[행사FAQ]"
   url: "faq/"
 
-- title: "[오리엔테이션]"
+- title: "[오리엔테이션 및 교육]"
   url: "orientation/"
 
-- title: "[수료증]"
-  url: "cert/"
-
-- title: "[매주Q&A]"
+- title: "[매주 Q&A]"
   url: "qna/"
 
 #- title: 커뮤니티
