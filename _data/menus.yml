@@ -4,14 +4,11 @@ topmenu:
 - title: Home
   url: ""
 
-- title: 행사개요
+- title: "[개요 및 안내]"
   url: "about/"
 
 - title: 프로그램
   url: "program/"
-
-- title: 참가안내
-  url: "registration/"
 
 - title: 수상혜택
   url: "awards/"
