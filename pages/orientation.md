@@ -43,6 +43,12 @@ image: assets/images/image03.png
 
 ---
 
+## ✅ 1, 2일차 발표자료 다운로드
+
+- [발표자료 다운로드](https://aka.ms/Downloaddeck)
+
+---
+
 # 📝 교육 수료증 다운로드
 
 8월 19일과 20일 양일간 진행된 Copilot Agenthon 로우코드 및 프로코드 교육에 참석해 주셔서 진심으로 감사드립니다. 
