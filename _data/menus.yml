@@ -25,10 +25,10 @@ topmenu:
 #- title: 후원
 #  url: "sponsor/"
 
-- title: 신청하기  
-  url: https://aka.ms/CopilotAgenthoninSeoul2025
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+#- title: 신청하기  
+#  url: https://aka.ms/CopilotAgenthoninSeoul2025
+#  class: "ml-2 btn btn-dark text-white px-3"
+#  external: true
 
 # Footer Menu
 footermenu:
