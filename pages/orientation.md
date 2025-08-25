@@ -31,6 +31,7 @@ image: assets/images/image03.png
 - [1. 에이전트 빌더 완전정복 - MS 김지연](https://www.youtube.com/watch?v=llbuE9KYacU)
 - [2. 코파일럿 스튜디오 초급 - MS 이영서](https://www.youtube.com/watch?v=-AfbUVb7uGQ)
 - [3. MCP 서버와 코파일럿 스튜디오 - MS 안창주](https://www.youtube.com/watch?v=_a03EFYhf7g)
+- [4. 코파일럿 스튜디오 고급 - MS Angela Jung](https://www.youtube.com/watch?v=u1Ypp_TQcpY)
 
 ---
 
