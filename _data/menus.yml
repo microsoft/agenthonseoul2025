@@ -16,6 +16,9 @@ topmenu:
 - title: "[오리엔테이션 및 교육]"
   url: "orientation/"
 
+- title: "[제출물 안내]"
+  url: "outcome/"
+
 - title: "[매주 Q&A]"
   url: "qna/"
 
