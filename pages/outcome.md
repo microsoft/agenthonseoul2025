@@ -5,7 +5,13 @@ permalink: "/outcome/"
 image: assets/images/image03.png
 ---
 
-# ✅ 에이전트 해커톤 제출물 체크리스트 안내
+# ✅ 에이전트 해커톤 제출물 안내
+
+## 최종 결과물 템플릿
+
+Copilot 에이전톤 최종 결과물 템플릿이 궁금하신 분들을 위해 예시 발표자료를 공유드립니다. 참고하셔서 각자의 결과물 제작에 도움이 되시길 바랍니다. 
+
+[https://aka.ms/agenthon_template](https://aka.ms/agenthon_template)
 
 ## 📢 해커톤 제출물 체크리스트
 
